@@ -1,6 +1,6 @@
 <h3 align="center">Hi there 👋</h3>
 
-- 🔭 I’m studing working on **FP Desarrollo de aplicaciones Multiplataforma**
+- 🔭 I’m studing on **FP Desarrollo de aplicaciones Multiplataforma**
 
 - 🌱 I’m currently learning **Java,html**
 
