@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently studing on ...FP Desarrollo de aplicaciones Multiplataforma
-- 🌱 I’m currently learning ...Java
+- 🌱 I’m currently learning ...Java,html
 - 🤔 I’m looking for help with ...Anything that can help me
 - 💬 Ask me about ...whatever you want, I'm always willing to help
 - 📫 How to reach me: ...This mail:blasgalfer@iescastelar.com
